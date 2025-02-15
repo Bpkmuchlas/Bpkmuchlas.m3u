@@ -1,0 +1,70 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: RCTI 1
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73606.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: RCTI 2
+http://ktpremium.xyz:2095/live/K6152/4432/73606.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: SCTV 1
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73607.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: SCTV 2
+http://ktpremium.xyz:2095/live/K6152/4432/73607.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TRANSTVHD
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73608.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TRANSTVHD
+http://ktpremium.xyz:2095/live/K6152/4432/73608.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TRANS7HD
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73609.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TRANS7HD
+http://ktpremium.xyz:2095/live/K6152/4432/73609.ts
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TV ONE
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73610.ts
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TV ONE
+http://ktpremium.xyz:2095/live/K6152/4432/73610.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: METROTV
+http://ktpremium.xyz:2095/live/K6152/4432/73611.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: METROTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73611.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: KOMPASTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73612.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: KOMPASTV
+http://ktpremium.xyz:2095/live/K6152/4432/73612.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: CNN INDONESIA
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73613.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: CNN INDONESIA
+http://ktpremium.xyz:2095/live/K6152/4432/73613.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: BTV
+http://ktpremium.xyz:2095/live/K6152/4432/73614.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: BTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73614.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: NET TV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73615.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: NET TV
+http://ktpremium.xyz:2095/live/K6152/4432/73615.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: MNCTV
+http://ktpremium.xyz:2095/live/K6152/4432/73616.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: MNCTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73616.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: INDOSIAR
+http://ktpremium.xyz:2095/live/K6152/4432/73617.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: INDOSIAR
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: AN TV
+http://ktpremium.xyz:2095/live/K6152/4432/73618.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: AN TV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73618.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: GTV
+http://ktpremium.xyz:2095/live/K6152/4432/73619.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: GTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73619.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TVRI
+http://ktpremium.xyz:2095/live/K6152/4432/73620.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TVRI
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73620.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: JTV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: TV9
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73629.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="INDONESIA",ID: JAWAPOS TV
+http://ktpremium.xyz:2095/live/QPP76780098/A904599/73631.m3u8
